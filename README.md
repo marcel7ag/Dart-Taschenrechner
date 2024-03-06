@@ -1,2 +1,1 @@
-# DartCalculator
 # Dart-Taschenrechner
